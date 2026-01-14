@@ -2,9 +2,6 @@
 
 A React application for calculating settlements, such as bill splitting or equal pay distributions among multiple people.
 
-# You can visit from here ⬇️
-https://equalpay.vercel.app/
-
 ## Features
 
 - Input multiple people and their contributions
@@ -43,5 +40,8 @@ https://equalpay.vercel.app/
 - React
 - Vite
 - JavaScript
+
+# You can visit from here ⬇️
+https://equalpay.vercel.app/
 
 
