@@ -58,7 +58,7 @@ export default function App() {
 <br></br>
 <br></br>
 আড্ডা হবে প্রাণখুলে, আর হিসাব হবে EqualPay-তে!✨<br></br>
-</p>
+</p><br></br>
 
       <div className="card">
         <label>Number of People</label>
