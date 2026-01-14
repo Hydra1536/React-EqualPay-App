@@ -8,8 +8,9 @@ A React application for calculating settlements, such as bill splitting or equal
 - Calculate fair settlements automatically
 - Display results in an easy-to-understand format
 
-## Project Structure
-
+<div class="section">
+<h2>📁 Project Structure</h2>
+<pre>
 equalpay/
 ├── public/                      # Static assets
 │   └── favicon.ico
@@ -32,7 +33,8 @@ equalpay/
 ├── package.json                 # Project dependencies and scripts
 ├── README.md                    # Project documentation
 └── vite.config.js               # Vite configuration file
-
+</pre>   
+</div>   
 ## Installation
 
 1. Clone the repository:
