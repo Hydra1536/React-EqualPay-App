@@ -96,6 +96,7 @@ export default function App() {
           />
         </div>
       )}
+      ©️ 2026 MD Rezaul Karim.
     </div>
   );
 }
