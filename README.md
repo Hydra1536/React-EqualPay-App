@@ -8,6 +8,31 @@ A React application for calculating settlements, such as bill splitting or equal
 - Calculate fair settlements automatically
 - Display results in an easy-to-understand format
 
+## Project Structure
+
+equalpay/
+├── public/                      # Static assets
+│   └── favicon.ico
+├── src/                         # Application source code
+│   ├── assets/
+│   │   └── react.ico
+│   ├── components/              # UI Components
+│   │   ├── PersonInput.jsx
+│   │   └── SettlementResult.jsx
+│   ├── utils/                   # Logic and helper functions
+│   │   └── calculateSettlement.js
+│   ├── App.css
+│   ├── App.jsx                  # Main App component
+│   ├── index.css                # Global styles
+│   └── main.jsx                 # Application entry point
+├── .gitignore                   # Files to ignore in Git
+├── eslint.config.js             # Linting configuration
+├── index.html                   # Entry HTML file
+├── package-lock.json            # Locked versions of dependencies
+├── package.json                 # Project dependencies and scripts
+├── README.md                    # Project documentation
+└── vite.config.js               # Vite configuration file
+
 ## Installation
 
 1. Clone the repository:
