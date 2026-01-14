@@ -10,7 +10,7 @@ export default function PersonInput({ index, person, onChange }) {
       <label>Name</label>
       <input
         type="text"
-        placeholder="e.g. Abir"
+        placeholder="e.g. Batman"
         value={person.name}
         onChange={e => onChange(index, "name", e.target.value)}
       />
