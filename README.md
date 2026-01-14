@@ -41,7 +41,7 @@ A React application for calculating settlements, such as bill splitting or equal
 - Vite
 - JavaScript
 
-# You can visit from here ⬇️
+## You can visit from here ⬇️
 https://equalpay.vercel.app/
 
 
