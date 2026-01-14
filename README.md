@@ -9,7 +9,7 @@ A React application for calculating settlements, such as bill splitting or equal
 - Display results in an easy-to-understand format
 
 <div class="section">
-<h2>📁 Project Structure</h2>
+<h2>Project Structure</h2>
 <pre>
 equalpay/
 ├── public/                      # Static assets
