@@ -35,6 +35,7 @@ equalpay/
 └── vite.config.js               # Vite configuration file
 </pre>   
 </div>   
+
 ## Installation
 
 1. Clone the repository:
