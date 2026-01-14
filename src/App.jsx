@@ -54,7 +54,9 @@ export default function App() {
   return (
     <div className="container">
       <h1>EqualPay</h1>
-      <p>Split expenses fairly without manual calculation.</p>
+      <p>এই অ্যাপটি একসাথে খরচ করা টাকা সহজভাবে ভাগ করার জন্য তৈরি।
+প্রত্যেকে কত টাকা দিয়েছে তা লিখলে, অ্যাপটি নিজে হিসাব করে দেখাবে কে কাকে কত টাকা দেবে।
+এতে সবাই শেষ পর্যন্ত সমান খরচ করবে, কোন ঝামেলা বা হিসাবের ভুল ছাড়াই।</p>
 
       <div className="card">
         <label>Number of People</label>
