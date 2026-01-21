@@ -1,0 +1,91 @@
+/* RESET */
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: #f4f6fb;
+  color: #111827;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+/* MAIN APP CONTAINER */
+.container {
+  width: 100%;
+  max-width: 720px;
+  padding: 2rem 1rem;
+}
+
+/* CARD */
+.card {
+  background: #ffffff;
+  padding: 1.25rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+/* TEXT */
+h1 {
+  text-align: center;
+  margin-bottom: 0.25rem;
+}
+
+p {
+  text-align: center;
+  color: #4b5563;
+}
+
+/* FORM */
+label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: #1f2937;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 14px;
+  border-radius: 6px;
+  border: 1px solid #cbd5e1;
+  background-color: #ffffff;
+  color: #111827;
+  font-size: 1rem;
+}
+
+input::placeholder {
+  color: #9ca3af;
+}
+
+input:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
+/* BUTTON */
+button {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  background-color: #2563eb;
+  color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1e40af;
+}
