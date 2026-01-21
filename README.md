@@ -33,7 +33,7 @@ Once installed, the app:
 ---
 
 ## 🗂️ Project Structure
-
+<div>
 equalpay/
 ├── public/ # Static assets & PWA icons
 │ └── favicon.ico
@@ -56,7 +56,7 @@ equalpay/
 ├── package.json
 ├── README.md
 └── vite.config.js
-
+</div>
 
 ---
 
